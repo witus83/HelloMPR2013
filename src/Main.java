@@ -1,4 +1,3 @@
-
 public class Main {
 
 	/**
@@ -8,6 +7,8 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		System.out.println("HelloWorld");
+		
+		System.out.println("HelloMPR");
 		
 	}
 
